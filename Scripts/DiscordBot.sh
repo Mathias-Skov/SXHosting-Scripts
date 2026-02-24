@@ -1,0 +1,1 @@
+screen -A -m -d -h 200 -S DiscordBot node /home/monitor/DiscordBot/index.js

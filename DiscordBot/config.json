@@ -1,0 +1,4 @@
+{
+	"token": "<your-token>",
+	"filter_list": ["a", "b", "c"]
+}

@@ -1,0 +1,1 @@
+screen -A -m -d -h 200 -S FacebookBot node /home/monitor/FacebookBot/index.js
