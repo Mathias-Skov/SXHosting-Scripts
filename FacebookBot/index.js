@@ -2,9 +2,9 @@
 const BootBot = require('bootbot');
 
 const bot = new BootBot({
-  accessToken: 'EAAOED8bUIn4BANnG62mnKS8oE8uc6ZAqyL5RuOjGszxem78QIdx7oXRhI0fv9l8YmV5QcZCSg9AfhiQAm1odD6jJeWnO5x12cQOwl0yl0L27O1Bl29aY9TZAVHYlyplZBfE4tEBGBLIS9n8JtWNGi7kHd7SPXR39dgvK3g00SBMBiMwALdEs',
+  accessToken: 'accessToken',
   verifyToken: 'SapexHosting.dk',
-  appSecret: '7c5e6b3a8bc2ebc84547503577f1f0cc'
+  appSecret: 'appSecret'
 });
 
 bot.hear('Hvor langtid tager det før at jeg har adgang til min server?', (payload, chat) => {
